@@ -1,0 +1,6 @@
+MONGO_URI=mongodb+srv://ashiq0019:ashiq144515@cluster0.wptj7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+ACCESS_TOKEN_SECRET=tomandjerry
+ACCESS_TOKEN_EXPIRY=1d
+REFRESH_TOKEN_SECRET=jerryandtom
+REFRESH_TOKEN_EXPIRY=30d
+GOOGLE_CLIENT_ID=324653741850-5qvmtnt9lmfku0l23b3h3bi0hia8hse8.apps.googleusercontent.com
